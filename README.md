@@ -1,4 +1,4 @@
-PyCon Introduction to Web and Data Scraping Tutorial
+PyCon Introduction to Web and Data Scraping With Python(Tutorial)
 ===========================================
 
 A tutorial-based introduction to web scraping with Python. 
